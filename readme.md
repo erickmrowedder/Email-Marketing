@@ -1,5 +1,7 @@
-Olá, esse projetinho é um exercício solicitado pela minha mentora Sara Lopes do EducaTRANSforma.
+# Olá! tudo bem? :D
 
-Realizado com HTML5 E CSS3.
+# Este projeto foi desenvolvido para estudo e aprofundamento do HTML5 e CSS3.
 
-Agradeço pela sua atenção.
+Trata-se de um e-mail marketing que demonstra um pouquinho do poder de estilização do CSS3, permitindo-nos ir longe sem ajuda obrigatória de bibliotecas ou frameworks. Espero que gostem!
+
+Obrigado pela atenção.
